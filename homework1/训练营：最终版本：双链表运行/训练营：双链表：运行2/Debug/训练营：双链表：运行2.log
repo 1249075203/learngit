@@ -1,0 +1,26 @@
+﻿  DuLinkedList.c
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\DuLinkedList.c(102,44): warning C4028: 形参 2 与声明不同
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\DuLinkedList.c(114,24): warning C4047: “=”:“ElemType *”与“ElemType”的间接级别不同
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\DuLinkedList.c(119,24): warning C4047: “=”:“ElemType *”与“ElemType”的间接级别不同
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\DuLinkedList.c(164,24): warning C4047: “return”:“void *”与“int”的间接级别不同
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\DuLinkedList.c(177,28): warning C4047: “return”:“void *”与“int”的间接级别不同
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\DuLinkedList.c(68): warning C4716: “InsertBeforeList_DuL”: 必须返回一个值
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\DuLinkedList.c(126): warning C4716: “DeleteList_DuL”: 必须返回一个值
+  源.c
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(43,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(48,37): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(55,33): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(72,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(82,26): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(90,33): warning C4013: “InsertBeforeList_DuL”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(92,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(104,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(114,26): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(122,32): warning C4013: “InsertAfterList_DuL”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(124,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(136,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(140,26): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(151,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(131,30): warning C4101: “q”: 未引用的局部变量
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(131,26): warning C4101: “L2”: 未引用的局部变量
+  训练营：双链表：运行2.vcxproj -> C:\Users\Spring\Desktop\训练营\训练营：最终版本：双链表运行\Debug\训练营：双链表：运行2.exe

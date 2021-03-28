@@ -1,0 +1,23 @@
+﻿  源.c
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(44,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(50,37): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(58,33): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(76,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(86,26): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(94,33): warning C4013: “InsertBeforeList_DuL”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(96,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(109,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(119,26): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(127,32): warning C4013: “InsertAfterList_DuL”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(129,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(142,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(146,26): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(157,34): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(137,30): warning C4101: “q”: 未引用的局部变量
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(137,26): warning C4101: “L2”: 未引用的局部变量
+  正在生成代码
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  训练营：双链表：运行2.vcxproj -> C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\Release\训练营：双链表：运行2.exe
