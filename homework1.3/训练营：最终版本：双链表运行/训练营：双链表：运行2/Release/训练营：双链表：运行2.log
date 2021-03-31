@@ -1,0 +1,20 @@
+﻿  源.c
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(13,26): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(21,26): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(26,29): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(33,29): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(49,26): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(59,18): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(70,25): warning C4013: “InsertBeforeList_DuL”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(72,26): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(83,26): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(93,18): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(101,24): warning C4013: “InsertAfterList_DuL”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(103,26): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(114,26): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(118,18): warning C4133: “=”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(129,26): warning C4133: “函数”: 从“int *”到“DuLinkedList”的类型不兼容
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(109,22): warning C4101: “q”: 未引用的局部变量
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(109,18): warning C4101: “L2”: 未引用的局部变量
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\训练营：双链表：运行2\源.c(156,13): warning C4013: “gets”未定义；假设外部返回 int
+LINK : fatal error LNK1104: 无法打开文件“C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：双链表运行\Release\训练营：双链表：运行2.exe”

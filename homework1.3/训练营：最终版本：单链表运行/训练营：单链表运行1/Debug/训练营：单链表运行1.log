@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：单链表运行\训练营：单链表运行1\源.cpp(5,17): warning C4101: “L2”: 未引用的局部变量
+C:\Users\Spring\Desktop\训练营\训练营：最终版本：单链表运行\训练营：单链表运行1\源.cpp(21,15): warning C4101: “k”: 未引用的局部变量
+  训练营：单链表运行1.vcxproj -> C:\Users\Spring\Desktop\训练营\训练营：最终版本：单链表运行\Debug\训练营：单链表运行1.exe

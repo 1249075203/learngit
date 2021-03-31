@@ -1,0 +1,14 @@
+﻿  源.c
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：单链表运行\训练营：单链表运行1\源.c(9,7): warning C4013: “exit”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：单链表运行\训练营：单链表运行1\源.c(5,17): warning C4101: “L2”: 未引用的局部变量
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：单链表运行\训练营：单链表运行1\源.c(65,24): warning C4101: “q”: 未引用的局部变量
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：单链表运行\训练营：单链表运行1\源.c(112,24): warning C4101: “q”: 未引用的局部变量
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：单链表运行\训练营：单链表运行1\源.c(334,9): warning C4013: “system”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：单链表运行\训练营：单链表运行1\源.c(348,7): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：单链表运行\训练营：单链表运行1\源.c(328,12): warning C4101: “i”: 未引用的局部变量
+  正在生成代码
+  0 of 26 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  训练营：单链表运行1.vcxproj -> C:\Users\Spring\Desktop\训练营\homework1\训练营：最终版本：单链表运行\Release\训练营：单链表运行1.exe
