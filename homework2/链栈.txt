@@ -1,0 +1,85 @@
+ switch (InputNumber())
+        {
+        case 'A':
+            initLStack(head);
+            flag = 1;
+            break;
+        case 'B':
+            if (flag == 1)
+            {
+                int k;
+                printf("请输入你想要放入的数据:");
+                scanf_s("%d", &k);
+                printf("%d", k);
+                pushLStack(head, k);
+            }
+            else
+            {
+                printf("尚未初始化或者栈为空\n");
+            }
+            break;
+        case 'C':
+            if (flag == 1)
+            {
+                ElemType* e = (ElemType*)malloc(sizeof(ElemType));
+                popLStack(head, e);
+            }
+            else
+            {
+                printf("尚未初始化或者栈为空\n");
+            }
+            break;
+        case 'D':
+            if (flag == 1)
+            {
+                clearLStack(head);
+            }
+            else
+            {
+                printf("尚未初始化或者栈为空\n");
+            }
+            break;
+        case 'E':
+            if (flag == 1)
+            {
+                destroyLStack(head);
+                flag = 0;
+            }
+            else
+            {
+                printf("尚未初始化或者栈为空\n");
+            }
+            break;
+        case 'F':
+        {
+            int* length = (int*)malloc(sizeof(int));
+            LStackLength(head, length);
+        }
+        break;
+        case 'G':
+            if (flag == 1)
+            {
+                isEmptyLStack(head);
+            }
+            else
+            {
+                printf("尚未初始化或者栈为空\n");
+            }
+            break;
+        case 'H':
+            if (flag == 1)
+            {
+                ElemType* e = (ElemType*)malloc(sizeof(ElemType));
+                getTopLStack(head, e);
+            }
+            else
+            {
+                printf("尚未初始化或者栈为空\n");
+            }
+            break;
+        case 'I':
+            printf("程序结束\n");
+            exit(0);
+            break;
+        }
+        system("pause");

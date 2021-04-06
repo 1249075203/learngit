@@ -1,0 +1,9 @@
+﻿  源.c
+C:\Users\Spring\source\repos\训练营：链栈\训练营：链栈\源.c(27,14): warning C4013: “print”未定义；假设外部返回 int
+C:\Users\Spring\source\repos\训练营：链栈\训练营：链栈\源.c(30,13): warning C4013: “gets”未定义；假设外部返回 int
+  正在生成代码
+  1 of 16 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  训练营：链栈.vcxproj -> C:\Users\Spring\source\repos\训练营：链栈\Release\训练营：链栈.exe

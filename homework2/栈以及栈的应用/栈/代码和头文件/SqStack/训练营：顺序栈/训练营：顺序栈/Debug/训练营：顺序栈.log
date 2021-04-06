@@ -1,0 +1,6 @@
+﻿  源.c
+C:\Users\Spring\source\repos\训练营：顺序栈\训练营：顺序栈\源.c(27,14): warning C4013: “print”未定义；假设外部返回 int
+C:\Users\Spring\source\repos\训练营：顺序栈\训练营：顺序栈\源.c(31,13): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\Spring\source\repos\训练营：顺序栈\训练营：顺序栈\源.c(54,52): warning C4013: “InputNumber”未定义；假设外部返回 int
+C:\Users\Spring\source\repos\训练营：顺序栈\训练营：顺序栈\源.c(7,19): warning C4101: “i”: 未引用的局部变量
+  训练营：顺序栈.vcxproj -> C:\Users\Spring\source\repos\训练营：顺序栈\Debug\训练营：顺序栈.exe
